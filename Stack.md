@@ -49,5 +49,5 @@ https://reactnavigation.org/docs/stack-navigator
 ```
 
 Redes sociais:
-<p>[Instagram](https://eduardocruz.dev)</p>
+<p>[Instagram](https://www.instagram.com/eduardocruz.dev)</p>
 <p>[Youtube](https://www.youtube.com/@tanomanual)</p>
