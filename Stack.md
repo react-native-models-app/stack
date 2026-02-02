@@ -7,8 +7,8 @@ npm install @react-navigation/stack
 npx expo install react-native-screens react-native-safe-area-context
 ```
 
-### Como montar  a stack
-na rais do projeto crie a pasta src/routes/stack.routes.tsx
+### Como montar a stack
+Na raiz do projeto, crie a pasta `src/routes/stack.routes.tsx`.
 ```bash
 import { createStackNavigator } from '@react-navigation/stack';
 import HomeScreen from '@/screens/HomeScreen';
@@ -27,7 +27,7 @@ function StackRoutes() {
 export default StackRoutes 
 ```
 ### Como chamar a stack no projeto
-na rais do projeto crie a pasta src/routes/index.tsx
+Na raiz do projeto, crie o arquivo `src/routes/index.tsx`.
 ```bash
 import { NavigationContainer } from "@react-navigation/native";
 import { useTheme } from "../constants/theme";
@@ -43,7 +43,7 @@ export default function Routes() {
 }
 ```
 
-documentação: 
+Documentação: 
 ```Bash
 https://reactnavigation.org/docs/stack-navigator
 ```
